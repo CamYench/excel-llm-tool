@@ -24,7 +24,7 @@ A powerful Python tool that converts Excel files (.xlsx, .xls) into LLM-friendly
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/CamYench/excel-llm-tool"
    cd excel-llm-tool
    ```
 
@@ -163,35 +163,6 @@ The tool includes comprehensive error handling for:
 - File permission issues
 - Memory constraints
 - Invalid configuration options
-
-## 🔮 Future Enhancements
-
-- **LLM API Integration**: Direct integration with popular LLM APIs
-- **Batch Processing**: Process multiple Excel files at once
-- **Advanced Formatting**: More output format options
-- **Cloud Storage**: Support for cloud-based file storage
-- **Collaboration**: Real-time collaboration features
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the error messages in the GUI
-2. Review the console output for detailed error information
-3. Ensure your Excel file is valid and not corrupted
-4. Verify you have the correct Python version and dependencies
 
 ## 🎉 Quick Start Example
 
